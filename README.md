@@ -12,10 +12,6 @@ This web application provides users with real-time stock prices for companies li
 
 [stockpriceapp.azurewebsites.net](https://stockpriceapp.azurewebsites.net)
 
-## GitHub
-
-[github.com/kbazant/stock-price](https://github.com/kbazant/stock-price)
-
 ## Microsoft Azure services
 
 - App Service
